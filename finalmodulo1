@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu primeiro HTML </title>
+</head>
+
+<body>
+    
+    <h1 id="inicio">Uma aventura codificada</h1>
+    <hr>
+    <h2> Índice</h2>
+    <ul>
+        <li><a href="#desafio">Meu desafio</a></li>
+        <li><a href="#funciona">O HTML</a></li>
+        <li><a href="#tagueado"> O que sao tags</a></li>
+        <li><a href="#lincado"> </a>Quem sou?</li>
+
+    </ul>
+    <h2 id="desafio"> Desafio</h2>
+
+    <p>Olá, Me chamo <mark>Patrice</mark>,estudar programação é um desafio. Sei que existem linguagens mais avançadas,porém,
+    conheco como se comporta o meu processo de aprendizado.<br> Preciso começar do Beabá para
+    construir uma base de conhecimento a ser consultada : o meu cérebro.</p>
+    
+    <blockquote cite="Não limite-se aos limites que são possíveis">
+    <p> "A imaginação é a faculdade de descobertas" <br>
+    [Ada Lovelace] </p>
+    </blockquote>
+    
+    <h2 id="funciona">O HTML</h2>
+    <small> <a href="#inicio">(Voltar)</a> </small><br>
+    
+    <p>A Linguagem de Marcação de Hipertexto (HTML) é uma linguagem de computador que compõe a <br>
+    maior parte das páginas da internet e dos aplicativos online. Um hipertexto é um texto usado  <br>
+    para fazer referência a outros textos, enquanto uma linguagem de marcação é composta por uma série<br>
+    de marcações que dizem para os servidores da web qual é o estilo e a estrutura de um documento.<br>
+    <p>O HTML não é considerado uma linguagem de programação, já que ele não pode criar funcionalidades<br>
+    dinâmicas. Ao invés disso, com o HTML, os usuários podem criar e estruturar seções, parágrafos e links<br>
+    usando elementos, tags e atributos.</p>
+    </p>
+
+    <h3>Confira abaixo alguns dos usos mais comuns para o HTML:</h3>
+
+    <li>Desenvolvimento web. Os desenvolvedores usam códigos HTML para projetar como um navegador vai exibir os    <br>
+    elementos das páginas, como textos, hiperlinks e arquivos de mídia</li><br>
+    <li>Navegação na internet. Os usuários podem navegar facilmente e inserir links entre páginas e sites relacionados,<br>
+    já que o HTML é amplamente usado para incorporar hiperlinks.</li><br>
+    <li>Documentação. O HTML torna possível a organização e a formatação de documentos, de maneira similar ao Microsoft<br>
+    Word.</li>
+
+    <p><b><i> o HTML agora é considerado um padrão oficial da internet. O World Wide Web Consortium (W3C) mantêm e desenvolve   <br>
+    especificações do HTML, além de providenciar atualizações regulares.</i></b></p>
+    
+    <h2 id="tagueado">O que são Tags?</h2>
+    <small> <a href="#inicio">(Voltar)</a> </small><br>
+
+    <p>As tags HTML são elementos usados ​​para marcar e formatar os conteúdos: textual ou visual em documentos HTML. Cada tag HTML tem um nome e uma sintaxe que determina como ela deve ser aberta e fechada.
+    Por exemplo: a tag de parágrafo é escrita como "<p> e </p>".Já para negritar pode ser usada a tag <Strong> ou <b> no início e </Strong> ou </b> para finalizar.
+    Para finalizar a utilização de uma tag pode ser usada uma barra (/), sendo que no caso das tags de autofechamento, não há necessidade da presença desse caractere.</p>
+    
+
+    <h2 id="lincado">Quem sou ?</h2>
+    <small> <a href="#inicio">(Voltar)</a> </small><br>
+
+     <p>Tenho 53 anos. Quero aprender a programar o que eu modelo.
+        Não vou desanimar.</p>
+    <p> para saber mais sobre mim acesse <a href="https://www.linkedin.com/in/patrice-lima/"> linkedin</a></p>
+
+</body>
+</html>
